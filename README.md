@@ -40,13 +40,13 @@
   
   <br/>
 <br/>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=florin9925&show_icons=true&locale=en&theme=react" alt="florin9925" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Florin9925&show_icons=true&locale=en&theme=react" alt="Florin9925" /></p>
 <br/>
 <br/>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=florin9925&theme=react" alt="florin9925" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Florin9925&theme=react" alt="Florin9925" /></p>
 <br/>
 <br/>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=florin9925&show_icons=true&locale=en&layout=compact&theme=react" alt="florin9925" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Florin9925&show_icons=true&locale=en&layout=compact&theme=react" alt="Florin9925" /></p>
 <br/>
 <br/>
 <p align="center">

@@ -7,7 +7,7 @@
 
 - 💻 **C#, Python, C++, Kotlin, Java**
 
-- 📬 How to reach me **florin.arhip99@gmail.com**
+- 📬 How to reach me **florin9925@gmail.com**
 
 - ⚽ Random fact **I love to play football!**
 <br>

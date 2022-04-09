@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arhip Florin</h1>
 
 <h3 align="center">🤙About Me</h3>
-<h4 align="center">I am studying at Transilvania University of Brașov. During college I used several programming languages, such as C++,  Python, Java or C#. I am a motivated person who wants to develop as much personally and professionally as possible.</h4>
+<h4 align="center">I am studying at Transilvania University in Brașov. During college I used several programming languages, such as C++,  Python, Java or C#. I am a motivated person who wants to develop as much personally and professionally as possible.</h4>
 
 - 📚 I’m currently learning **Spring Framework**
 

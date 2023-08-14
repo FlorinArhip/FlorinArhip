@@ -15,7 +15,7 @@
 <h3 align="center">Connect with me 👇</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/florin-arhip/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/florin-arhip/" height="30" width="40" /></a>
-<a href="https://github.com/Florin9925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/Florin9925" height="30" width="40" /></a>
+<a href="https://github.com/FlorinArhip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/FlorinArhip" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">👨‍💻Languages and Tools:</h3>
@@ -40,17 +40,17 @@
   
   <br/>
 <br/>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Florin9925&show_icons=true&locale=en&theme=react" alt="Florin9925" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FlorinArhip&show_icons=true&locale=en&theme=react" alt="FlorinArhip" /></p>
 <br/>
 <br/>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Florin9925&theme=react" alt="Florin9925" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FlorinArhip&theme=react" alt="FlorinArhip" /></p>
 <br/>
 <br/>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Florin9925&show_icons=true&locale=en&layout=compact&theme=react" alt="Florin9925" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FlorinArhip&show_icons=true&locale=en&layout=compact&theme=react" alt="FlorinArhip" /></p>
 <br/>
 <br/>
 <p align="center">
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=Florin9925&theme=react-dark&area=true&hide_border=true" width="100%">
+ <img src="https://activity-graph.herokuapp.com/graph?username=FlorinArhip&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>

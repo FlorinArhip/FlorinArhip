@@ -3,9 +3,9 @@
 <h3 align="center">🤙About Me</h3>
 <h4 align="center">I am studying at Transilvania University in Brașov. During college I used several programming languages, such as C++,  Python, Java or C#. I am a motivated person who wants to develop as much personally and professionally as possible.</h4>
 
-- 📚 I’m currently learning **Spring Framework**
+- 📚 I’m currently learning **Go**
 
-- 💻 **C#, Python, C++, Kotlin, Java**
+- 💻 **Java, C#, Python, C++, Kotlin**
 
 - 📬 How to reach me **florin9925@gmail.com**
 

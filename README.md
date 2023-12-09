@@ -37,12 +37,3 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
-  
-<br/>
-<br/>
-<p align="center">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=FlorinArhip&theme=react-dark&area=true&hide_border=true" width="100%">
-</a>
-</p>
